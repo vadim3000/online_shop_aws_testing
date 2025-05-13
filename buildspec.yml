@@ -23,5 +23,5 @@ phases:
     commands:
       - npm -v
       - npm i
-#      - npm run start:ci &
-      - npx cypress run --record
+      - npm run start:ci &
+      - npx cypress run
