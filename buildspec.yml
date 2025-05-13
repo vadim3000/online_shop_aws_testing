@@ -22,6 +22,6 @@ phases:
   build:
     commands:
       - npm -v
-#      - npm install
+      - npm i
 #      - npm run start:ci &
       - npx cypress run --record
