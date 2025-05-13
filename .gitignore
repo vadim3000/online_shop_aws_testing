@@ -1,0 +1,9 @@
+.idea
+package.json
+package-lock.json
+node_modules
+videos/
+screenshots/
+1-getting-started
+2-advanced-examples
+
